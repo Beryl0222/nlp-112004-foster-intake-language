@@ -1,0 +1,58 @@
+[
+  {
+    "id": "h1",
+    "assigned": "A1",
+    "mayInclude": [
+      "A1",
+      "A2"
+    ],
+    "destination": "r2",
+    "at": "2026-11-20T10:00:00+08:00",
+    "state": "已预约",
+    "evidence": [
+      "m1",
+      "m8"
+    ],
+    "note": "值班表曾把同名的两次出现按一只记。"
+  },
+  {
+    "id": "h2",
+    "assigned": "A4",
+    "mayInclude": [
+      "A4"
+    ],
+    "destination": "r2",
+    "at": "2026-11-20T11:00:00+08:00",
+    "state": "已预约",
+    "evidence": [
+      "m8"
+    ],
+    "note": "已确认短期寄养，单只名额。"
+  },
+  {
+    "id": "h3",
+    "assigned": "A2",
+    "mayInclude": [
+      "A2"
+    ],
+    "destination": "r4",
+    "at": "2026-11-19T07:05:00+08:00",
+    "state": "已交接",
+    "evidence": [
+      "m2"
+    ],
+    "note": "此前接去暂留，由早班记录，之后由原主确认。"
+  },
+  {
+    "id": "h4",
+    "assigned": "A5",
+    "mayInclude": [
+      "A5"
+    ],
+    "destination": "r1",
+    "at": "2026-11-20T12:00:00+08:00",
+    "state": "已预约",
+    "evidence": [],
+    "note": "同一时段预留隔离位。"
+  }
+]

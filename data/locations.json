@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r1",
+    "label": "石窗隔离区",
+    "capacity": 2,
+    "kind": "临时隔离"
+  },
+  {
+    "id": "r2",
+    "label": "丘家寄养",
+    "capacity": 2,
+    "kind": "短期"
+  },
+  {
+    "id": "r3",
+    "label": "瓦廊同住",
+    "capacity": 2,
+    "kind": "长期"
+  },
+  {
+    "id": "r4",
+    "label": "岑家短托",
+    "capacity": 1,
+    "kind": "短期"
+  },
+  {
+    "id": "r5",
+    "label": "杉窗领养",
+    "capacity": 2,
+    "kind": "长期"
+  }
+]

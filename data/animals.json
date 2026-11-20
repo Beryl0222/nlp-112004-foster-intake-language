@@ -1,0 +1,57 @@
+[
+  {
+    "id": "A1",
+    "name": "糖糖",
+    "chip": "CH-801",
+    "aliases": [
+      "花脸",
+      "小糖"
+    ],
+    "appearance": "左耳有浅缺口、灰尾",
+    "place": "榆街"
+  },
+  {
+    "id": "A2",
+    "name": "糖糖",
+    "chip": "CH-913",
+    "aliases": [
+      "阿花",
+      "小糖"
+    ],
+    "appearance": "白鼻口、环纹尾",
+    "place": "竹桥"
+  },
+  {
+    "id": "A3",
+    "name": "小荠",
+    "chip": null,
+    "aliases": [
+      "白背",
+      "蘑菇"
+    ],
+    "appearance": "白背、细尾",
+    "place": "榆街"
+  },
+  {
+    "id": "A4",
+    "name": "麦米",
+    "chip": "CH-577",
+    "aliases": [
+      "麦",
+      "斑团"
+    ],
+    "appearance": "虎纹、短尾",
+    "place": "西巷"
+  },
+  {
+    "id": "A5",
+    "name": "鸟麦",
+    "chip": null,
+    "aliases": [
+      "麦米",
+      "灰耳"
+    ],
+    "appearance": "耳根灰、长尾",
+    "place": "东院"
+  }
+]

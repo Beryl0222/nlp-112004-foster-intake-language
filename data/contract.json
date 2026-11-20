@@ -1,0 +1,51 @@
+{
+  "animals": {
+    "columns": {
+      "id": "string",
+      "name": "string",
+      "chip": "string?",
+      "aliases": "array",
+      "appearance": "string",
+      "place": "string"
+    },
+    "links": {}
+  },
+  "locations": {
+    "columns": {
+      "id": "string",
+      "label": "string",
+      "capacity": "integer",
+      "kind": "string"
+    },
+    "links": {}
+  },
+  "messages": {
+    "columns": {
+      "id": "string",
+      "sender": "string",
+      "verifyRole": "string",
+      "at": "string",
+      "replies": "array",
+      "text": "string"
+    },
+    "links": {}
+  },
+  "handoffs": {
+    "columns": {
+      "id": "string",
+      "assigned": "string",
+      "mayInclude": "array",
+      "destination": "string",
+      "at": "string",
+      "state": "string",
+      "evidence": "array",
+      "note": "string"
+    },
+    "links": {
+      "assigned": "animals",
+      "mayInclude": "animals",
+      "destination": "locations",
+      "evidence": "messages"
+    }
+  }
+}
